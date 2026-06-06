@@ -1,0 +1,9 @@
+mr_id,title,status,age_days,author,target_branch
+201,Add GitLab API connector,Open,8,Anna,main
+202,Improve dashboard UI,Merged,2,Max,main
+203,Fix pipeline parsing,Open,15,Sara,dev
+204,Add issue age calculation,Merged,4,Tom,main
+205,Update documentation,Open,6,Anna,main
+206,Add repository health score,Open,12,Max,dev
+207,Improve sidebar filters,Merged,3,Sara,main
+208,Fix CSV loading issue,Open,18,Tom,main

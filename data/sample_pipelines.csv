@@ -1,0 +1,9 @@
+pipeline_id,branch,status,duration_minutes
+501,main,success,4.2
+502,dev,failed,6.8
+503,feature/api,success,3.5
+504,main,failed,7.1
+505,feature/dashboard,success,5.2
+506,dev,canceled,2.4
+507,main,success,4.8
+508,feature/auth,failed,8.3

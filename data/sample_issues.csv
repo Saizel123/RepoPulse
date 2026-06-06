@@ -1,0 +1,9 @@
+issue_id,title,status,age_days,assignee,label
+101,Fix login bug,Open,12,Anna,bug
+102,Update README,Open,3,Unassigned,documentation
+103,Improve dashboard loading speed,Closed,5,Max,enhancement
+104,Add tests for API connector,Open,21,Unassigned,testing
+105,Fix broken chart layout,Open,17,Sara,bug
+106,Add token setup guide,Closed,2,Tom,documentation
+107,Refactor data processing module,Open,9,Anna,refactor
+108,Improve error handling,Open,24,Unassigned,bug
