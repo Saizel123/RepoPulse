@@ -45,3 +45,8 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
+```
+
+## Live demo
+Please check it out!
+{Live demo}[https://repopulse-k5dhfqx7its2kyufgfrzgs.streamlit.app/]
