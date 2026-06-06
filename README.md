@@ -53,10 +53,10 @@ Please check it out!
 
 ## App Preview
 ![Dashboard Preview](assets/Main_Dashboard.png)
-![Automated Workflow Summary](assets/Automated_Workflow.png)
 ![Merge Request Activity](assets/Merge_Request_Activity.png)
 ![Recent Pipelines](assets/Recent_Pipelines.png)
 ![Workflow Analytics](assets/Workflow_Analytics.png)
+![Automated Workflow Summary](assets/Automated_Workflow.png)
 
 
 
