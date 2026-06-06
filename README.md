@@ -49,4 +49,16 @@ streamlit run app/streamlit_app.py
 
 ## Live demo
 Please check it out!
-{Live demo}[https://repopulse-k5dhfqx7its2kyufgfrzgs.streamlit.app/]
+[Live demo](https://repopulse-k5dhfqx7its2kyufgfrzgs.streamlit.app/)
+
+## App Preview
+![Dashboard Preview](assets/Main_Dashboard.png)
+![Automated Workflow Summary](assets/Automated_Workflow.png)
+![Merge Request Activity](assets/Merge_Request_Activity.png)
+![Recent Pipelines](assets/Recent_Pipelines.png)
+![Workflow Analytics](assets/Workflow_Analytics.png)
+
+
+
+
+
